@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Dev/CSharp/BuildADino/BuildADino/Content/DefaultFOnt.spritefont","F:/Dev/CSharp/BuildADino/BuildADino/Content/bin/DesktopGL/Content/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2206647
+"F:/Dev/CSharp/BuildADino/BuildADino/Content/MinerTile.png","F:/Dev/CSharp/BuildADino/BuildADino/Content/bin/DesktopGL/Content/MinerTile.xnb","TextureProcessor","Texture2DContent",731,65621,0.0288407
+"F:/Dev/CSharp/BuildADino/BuildADino/Content/SelectionTile.png","F:/Dev/CSharp/BuildADino/BuildADino/Content/bin/DesktopGL/Content/SelectionTile.xnb","TextureProcessor","Texture2DContent",4518,65621,0.0094949
+"F:/Dev/CSharp/BuildADino/BuildADino/Content/UpgradeBackgroundTexture.png","F:/Dev/CSharp/BuildADino/BuildADino/Content/bin/DesktopGL/Content/UpgradeBackgroundTexture.xnb","TextureProcessor","Texture2DContent",1043,262229,0.1746767
+"F:/Dev/CSharp/BuildADino/BuildADino/Content/WoodTile.png","F:/Dev/CSharp/BuildADino/BuildADino/Content/bin/DesktopGL/Content/ForestTile.xnb","TextureProcessor","Texture2DContent",732,65621,0.0054989
